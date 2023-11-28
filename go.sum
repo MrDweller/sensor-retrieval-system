@@ -1,0 +1,6 @@
+github.com/MrDweller/orchestrator-connection v1.0.1 h1:fUKX57NajHQZA7xtI1c8HCRuNwYEA6pqgPmz55PM+N0=
+github.com/MrDweller/orchestrator-connection v1.0.1/go.mod h1:gIzXE2JKyxtGe5ftzEN07B7XnsZCuSbzsH7OO6agiRA=
+github.com/MrDweller/service-registry-connection v0.0.0-20231127112843-c9ad0cf7496d h1:UAZaFcarrUmFo84/b6r/kfj0bo47TitobV71TGROeqw=
+github.com/MrDweller/service-registry-connection v0.0.0-20231127112843-c9ad0cf7496d/go.mod h1:werFDrDntle8VBpcVjyWQ+IzAJBGwv7vqpxWgf8/z1Q=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
